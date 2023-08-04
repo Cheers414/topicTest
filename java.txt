@@ -2,15 +2,12 @@ A
 B
 C
 D
-<<<<<<< HEAD
 E
 F
 Y
 1
 2
 2
-=======
 LINE
->>>>>>> 24dd5595855ba0ece3d48c8715c869f482b62135
-
 I'm 25
+LINEAAAAAAA
