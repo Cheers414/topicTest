@@ -1,13 +1,4 @@
-A
-B
-C
-D
-E
-F
-Y
-1
-2
-2
+
 LINE
 I'm 03
 LINEAAAAAAA
